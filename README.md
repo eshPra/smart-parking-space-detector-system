@@ -170,7 +170,7 @@ This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for det
 
 ## Authors & Credits
 
-- [eshPra](https://github.com/eshPra) and contributors.
+- [eshPra](https://github.com/eshPra)
 
 ---
 
